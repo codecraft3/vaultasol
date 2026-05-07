@@ -1,0 +1,10 @@
+/home/dell/Blocks/vaultasol/target/debug/deps/solana_stable_layout-7bb1d118d1438995.d: /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/lib.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_instruction.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_rc.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_ref_cell.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_slice.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_vec.rs
+
+/home/dell/Blocks/vaultasol/target/debug/deps/libsolana_stable_layout-7bb1d118d1438995.rmeta: /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/lib.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_instruction.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_rc.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_ref_cell.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_slice.rs /home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_vec.rs
+
+/home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/lib.rs:
+/home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_instruction.rs:
+/home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_rc.rs:
+/home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_ref_cell.rs:
+/home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_slice.rs:
+/home/dell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-stable-layout-2.2.1/src/stable_vec.rs:
