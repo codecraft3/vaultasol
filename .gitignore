@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+target/
+
+# Local Anchor state
+.anchor/
+
+# Secrets and Keys
+*.json
+!anchor.toml # Keep anchor.toml, it's the config!
+.env
+
+# OS specific
+.DS_Store
